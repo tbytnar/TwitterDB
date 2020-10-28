@@ -1,0 +1,27 @@
+{
+    "social_media":
+    {
+        "twitter_enabled":"True",
+        "facebook_enabled":"False",
+        "instagram_enabled":"False",
+        "youtube_enabled":"False"
+    },
+    "twitter_keys": {
+        "ACCESS_TOKEN":"41638513-X8arr9y227KCLBWmePJmTDGx2BxnMwEqVUoLqL6Gy",
+        "ACCESS_SECRET":"otmfdFriqsfkbBQaUdp5OBMz9dSrlQavvC1BGwubw5nVc",
+        "CONSUMER_KEY":"ivDPZJMpgflccZBmVAVZBPODe",
+        "CONSUMER_SECRET":"BoZIr7mDcJfBS2wIFhBwqvCt4S1Qj0SMuLSpUVZTxLKy6zEHXi",
+        "BEARER_TOKEN":"AAAAAAAAAAAAAAAAAAAAAJy5HQEAAAAAcnfalIZWlqwu%2FFi6Bi2Gnf1O28c%3DqzzR12NDLPvMcgiUDULqaEOVaMLweoQb6F96fuhKbIHM5Z4itj"
+    },
+    "facebook_keys": {
+
+    },
+    "instagram_keys": {
+
+    },
+    "youtube_keys": {
+
+    },
+    "mongo_connection":"mongodb+srv://tbytnar:Mlucas0313%21@moonfrogdev.w6yur.mongodb.net/sample_airbnb?retryWrites=true&w=majority"
+
+}
